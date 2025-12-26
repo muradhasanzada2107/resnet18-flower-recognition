@@ -1,0 +1,14 @@
+torch
+torch.nn
+torch.optim
+numpy
+matplotlib.pyplot
+pandas
+random
+zipfile
+os
+torchvision.datasets
+torchvision.transforms
+torchvision.models
+torch.utils.data
+sklearn.metrics
